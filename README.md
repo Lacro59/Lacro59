@@ -57,7 +57,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lacro59/playnite-successstory-plugin?cacheSeconds=5000&logo=github)](https://github.com/Lacro59/playnite-successstory-plugin/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Lacro59/playnite-successstory-plugin?cacheSeconds=5000)](https://github.com/Lacro59/playnite-successstory-plugin/releases/latest)
 [![Github Lastest Releases](https://img.shields.io/github/downloads/Lacro59/playnite-successstory-plugin/latest/total.svg)]()  
-[![Static Badge](https://img.shields.io/badge/playnite-systemchecker-plugin?color=8A2BE2)](https://github.com/Lacro59/playnite-successstory-plugin)
+[![Static Badge](https://img.shields.io/badge/playnite-systemchecker-plugin?color=8A2BE2)](https://github.com/Lacro59/playnite-systemchecker-plugin)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lacro59/playnite-systemchecker-plugin?cacheSeconds=5000&logo=github)](https://github.com/Lacro59/playnite-systemchecker-plugin/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Lacro59/playnite-systemchecker-plugin?cacheSeconds=5000)](https://github.com/Lacro59/playnite-systemchecker-plugin/releases/latest)
 [![Github Lastest Releases](https://img.shields.io/github/downloads/Lacro59/playnite-systemchecker-plugin/latest/total.svg)]()  
