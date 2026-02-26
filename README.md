@@ -41,13 +41,11 @@
 
 ## 🤝 Global Issues Tracker (All Projects)
 
-| Category | Open Issues Count |
+| Category | Link |
 | :--- | :--- |
-| 🐛 **Bugs** | [![Bugs](https://img.shields.io/github/issues-search/Lacro59?query=is%3Aopen%20is%3Aissue%20label%3Abug&label=Bugs&color=d73a4a)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ALacro59+label%3Abug) |
-| ✨ **Enhancements** | [![Enhancements](https://img.shields.io/github/issues-search/Lacro59?query=is%3Aopen%20is%3Aissue%20label%3Aenhancement&label=Features&color=a2eeef)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ALacro59+label%3Aenhancement) |
-| 🙋 **Questions** | [![Question](https://img.shields.io/github/issues-search/Lacro59?query=is%3Aopen%20is%3Aissue%20label%3Aquestion&label=Questions&color=008672)](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3ALacro59+label%3A%22question%22) |
-
-> **Note:** Badges above show the real-time sum of open issues across **all** my repositories.
+| 🐛 **Bugs** | [![Bugs](https://img.shields.io/badge/Bugs-View%20Issues-d73a4a?logo=github)](https://github.com/issues?q=user%3ALacro59+is%3Aissue+is%3Aopen+label%3Abug) |
+| ✨ **Enhancements** | [![Enhancements](https://img.shields.io/badge/Enhancements-View%20Issues-a2eeef?logo=github)](https://github.com/issues?q=user%3ALacro59+is%3Aissue+is%3Aopen+label%3Aenhancement) |
+| 🙋 **Questions** | [![Questions](https://img.shields.io/badge/Questions-View%20Issues-008672?logo=github)](https://github.com/issues?q=user%3ALacro59+is%3Aissue+is%3Aopen+label%3Aquestion) |
 
 ---
 
