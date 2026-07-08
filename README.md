@@ -1,4 +1,4 @@
-[![Lacro59's GitHub stats](https://github-readme-stats-ek35o4wzd-lacro59.vercel.app/api?username=lacro59&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lacro59's GitHub stats](https://github-stats-extended.vercel.app/api?username=lacro59&theme=nord&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
